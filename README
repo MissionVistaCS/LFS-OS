@@ -1,2 +1,2 @@
-<h1>LFS Operating System</h1>
-<p>An OS built off of the GNU Linux Kernel based off of the <a href="http://www.linuxfromscratch.org/lfs/">LFS Documentation</a>.</p>
+#LFS Operating System
+An OS built off of the GNU Linux Kernel based off of the (http://www.linuxfromscratch.org/lfs/)[LFS Documentation].
