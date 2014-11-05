@@ -1,0 +1,23 @@
+|-------+---------------------------+--------------------------------|
+| Setup                                                              |
+|-------+---------------------------+--------------------------------|
+|  Step | Description               | Command                        |
+|-------+---------------------------+--------------------------------|
+|     1 | Initialize Git Repository | git init                       |
+|     2 | Add Git Host              | git remote add origin sdjlkdsf |
+|     3 | Fetch Project Files       | git fetch origin master        |
+|     4 | Pull Project Files        | git pull origin master         |
+|-------+---------------------------+--------------------------------|
+
+|-----------------+--------------------------+---------------------------|
+| Pushing/Pulling |                          |                           |
+|-----------------+--------------------------+---------------------------|
+|            Step | Description              | Command                   |
+|-----------------+--------------------------+---------------------------|
+|               1 | Add Files in Directory   | git add.                  |
+|               2 | Commiting                | git commit -m ""          |
+|               3 | Pushing                  | git push origin master    |
+|-----------------+--------------------------+---------------------------|
+|               1 | Remove File in DIrectory | git rm (name of the file) |
+|               2 | Commit and Push          | Reffer to the above       |
+|-----------------+--------------------------+---------------------------|
